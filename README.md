@@ -18,7 +18,7 @@ Usuario → Texto/Audio → Streamlit → session_state → Prompt Template → 
 
 ## Instalación
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <[URL_DEL_REPOSITORIO](https://github.com/NayelyYomaraMachacuayYantas/HM-SmartSupport.git)>
 cd HM-SmartSupport
 python -m venv .venv
 # Windows: .venv\Scripts\activate    |  Mac/Linux: source .venv/bin/activate
@@ -41,4 +41,6 @@ Audios de prueba (casos 8-10): `tests/audio/caso08.wav`, `caso09.mp3|m4a`, `caso
 La API Key vive solo en `.env` (ignorado por Git). Nunca la subas al repositorio.
 
 ## Integrantes
-- (completar)
+- Kiara Yuriko Padilla Riveros
+- Nayely Yomara Machacuay Yantas
+- Liesel Lina Reyda Zamora Quispe
