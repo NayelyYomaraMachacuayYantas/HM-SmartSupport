@@ -6,6 +6,7 @@ Funciones: chatbot con contexto (`st.session_state`), transcripción de audio (M
 ## Arquitectura
 ```
 Usuario → Texto/Audio → Streamlit → session_state → Prompt Template → LLM (OpenRouter) → Respuesta + Clasificación
+![Arquitectura](docs/arquitectura.png)
 ```
 | Componente | Archivo |
 |---|---|
