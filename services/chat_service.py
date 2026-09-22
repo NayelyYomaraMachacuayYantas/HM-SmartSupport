@@ -31,6 +31,7 @@ def make_client() -> OpenAI:
         base_url=s.base_url,
         api_key=s.api_key,
         timeout=60,
+        max_retries=4,  # reintenta con espera creciente ante 429/5xx (por defecto: 2)
         default_headers={"HTTP-Referer": s.site_url, "X-Title": "HM Smart Support"},
     )
 
