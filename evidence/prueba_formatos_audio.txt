@@ -1,0 +1,8 @@
+﻿Modelo Whisper: small
+
+[OK]    caso08.wav -> Mi máquina de coser recta hace un ruido fuerte cuando coso y la hoja se rompe seguido. ¿Qué puede estar pasando?
+[OK]    caso09.mp3 -> ¿Qué mantenimiento necesita mi remayadora? ¿Y cada cuánto tiempo debo lubricarla?
+[OK]    caso09.m4a -> ¿Qué mantenimiento necesita mi remayadora? ¿Y cada cuánto tiempo debo lubricarla?
+[OK]    caso10.wav -> Mi remayadora comenzó a votar humo y tiene olor a quemado. ¿Qué debo hacer?
+
+Resultado: 4/4 formatos transcritos correctamente

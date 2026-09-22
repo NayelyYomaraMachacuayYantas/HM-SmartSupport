@@ -1,0 +1,17 @@
+{
+  "_nota": "Datos de ejemplo para el prototipo academico. Reemplazar/ampliar con informacion real del caso.",
+  "empresa": "Hilos y Máquinas S.A.C. vende máquinas de coser, remalladoras, bordadoras, repuestos y accesorios para talleres textiles.",
+  "canales_soporte": ["WhatsApp", "teléfono", "correo", "tienda física", "página web"],
+  "mantenimiento": {
+    "remalladora": "Limpiar pelusa de cuchillas, garfios y placa después de uso intenso; lubricar los puntos indicados en el manual; cambiar la aguja con regularidad; revisar tensión de hilos. La frecuencia exacta depende del modelo y debe confirmarse en el manual.",
+    "recta": "Retirar pelusa del área de la bobina y de los dientes de arrastre; lubricar según manual; cambiar aguja cuando esté desafilada o doblada.",
+    "bordadora": "Limpiar zona del gancho, revisar aguja y tensión de hilo superior/inferior, mantener actualizado el software del equipo."
+  },
+  "fallas_frecuentes": {
+    "hilo_se_rompe": "Revisar enhebrado, tensión, calidad del hilo y estado de la aguja.",
+    "puntadas_saltadas": "Revisar tipo y estado de la aguja, enhebrado y tensión.",
+    "aguja_se_rompe": "Revisar que la aguja esté bien colocada, sea del tipo correcto para la tela y que no se jale la tela con fuerza."
+  },
+  "garantia": "La garantía cubre defectos de fábrica; no cubre daños por mal uso. Se requiere comprobante de compra. El plazo y condiciones exactas deben ser confirmados por el área de postventa.",
+  "seguridad": "Ante humo, olor a quemado, chispas o descargas eléctricas: desconectar el equipo, dejar de usarlo y solicitar evaluación técnica."
+}
