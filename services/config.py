@@ -22,5 +22,5 @@ def get_settings() -> Settings:
         base_url=os.getenv("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1").strip(),
         model=os.getenv("OPENROUTER_MODEL", "openai/gpt-4o-mini").strip(),
         site_url=os.getenv("APP_SITE_URL", "http://localhost:8501").strip(),
-        whisper_size=os.getenv("WHISPER_MODEL_SIZE", "base").strip(),
+        whisper_size=os.getenv("WHISPER_MODEL_SIZE", "small").strip(),
     )
