@@ -19,7 +19,7 @@ Usuario → Texto/Audio → Streamlit → session_state → Prompt Template → 
 
 ## Instalación
 ```bash
-git clone <[URL_DEL_REPOSITORIO](https://github.com/NayelyYomaraMachacuayYantas/HM-SmartSupport.git)>
+git clone https://github.com/NayelyYomaraMachacuayYantas/HM-SmartSupport.git
 cd HM-SmartSupport
 python -m venv .venv
 # Windows: .venv\Scripts\activate    |  Mac/Linux: source .venv/bin/activate
